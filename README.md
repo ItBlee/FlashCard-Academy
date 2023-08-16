@@ -4,7 +4,7 @@ Learning website, study flashcards in downtime and practice tests or manage your
 **Note**: **Not allowed** to clone the company's project so only screenshots available.
 
 ### Technologies Used
-HTML, CSS, JavaScript, jQuery, Boostrap
+HTML, CSS, JavaScript, jQuery, Boostrap </br>
 Servlet, JSP, JSTL, ModelMapper, Java8
 
 ## Screenshots:
