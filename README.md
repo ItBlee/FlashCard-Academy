@@ -1,7 +1,7 @@
 # FlashCard-Academy
 Learning website, study flashcards in downtime and practice tests or manage your classes/courses.
 
-Note: Not allowed to clone the company's project.
+**Note**: **Not allowed** to clone the company's project so only screenshots available.
 
 ### Technologies Used
 HTML, CSS, JavaScript, jQuery, Boostrap
